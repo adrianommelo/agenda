@@ -94,7 +94,7 @@ public class ListaAlunosActivity extends AppCompatActivity {
                     startActivity(intentLigar);
                 }
                 return false;
-                
+
             }
         });
 
